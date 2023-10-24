@@ -1,0 +1,4 @@
+*.o
+fn_parse
+mybashrc.txt
+fn_output_mybashrc.txt/
